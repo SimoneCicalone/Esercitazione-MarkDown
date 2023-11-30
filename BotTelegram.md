@@ -24,6 +24,15 @@ Questo dirà al client **_npm_** di inizializzare la nostra project directory co
 Cliccate Invio a tutti i prompts, possiamo occuparci di “compilaro” più tardi.
 
 #### Installare i pacchetti necessari  
-Per farlo basta scrivere quetsa riga di codice
+Per farlo basta scrivere quetsa riga di codice  
 ![](mark2.PNG) 
+#### Creare il bot Telegram  
+Su Telegram, contattate **@botfather** e usate il comando _/newbot_ per creare un nuovo bot.  
+#### Inizio del codice  
+Adesso che abbiamo il nostro bot, possiamo usarlo per interfacciarci con Telegram e le sue API.
+Create un file _index.js_ nella vostra project directory, poi apritelo nel vostro text editor preferito.
+Qui c’è qualche semplice codice **“Hello world”** che ho scritto per assistervi in questo step.  
+![](mark3.PNG) 
+
+
 
