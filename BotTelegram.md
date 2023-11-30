@@ -11,4 +11,5 @@ chat bot._
 - Linux: dovreste già sapere come procurarvi Node.js
 
 **NOTA BENE:** prima di creare il bot, bisogna creare un account telegram per farlo basta andare da [telegram.org/dl](https://desktop.telegram.org/) e seguire le istruzioni per la creazione.
-  
+#### Creare le directory del Progetto
+![Queste sono le directory](mark1.jpg)
