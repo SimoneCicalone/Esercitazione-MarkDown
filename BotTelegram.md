@@ -32,7 +32,8 @@ Su Telegram, contattate **@botfather** e usate il comando _/newbot_ per creare u
 Adesso che abbiamo il nostro bot, possiamo usarlo per interfacciarci con Telegram e le sue API.
 Create un file _index.js_ nella vostra project directory, poi apritelo nel vostro text editor preferito.
 Qui c’è qualche semplice codice **“Hello world”** che ho scritto per assistervi in questo step.  
-![](mark3.PNG) 
+![](mark3.PNG)   
+
 
 
 
